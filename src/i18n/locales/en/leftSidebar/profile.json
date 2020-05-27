@@ -1,6 +1,7 @@
 {
   "photoUrl": {
-    "label": "Photo URL"
+    "label": "Photo URL",
+    "placeholder": "https://disk.yandex.ru/"
   },
   "firstName": {
     "label": "First Name"

@@ -2,44 +2,44 @@
   "item": {
     "add": "Add {{- heading}}",
     "startDate": {
-      "label": "Start Date"
+      "label": "Дата начала"
     },
     "endDate": {
-      "label": "End Date"
+      "label": "Конечная дата"
     },
     "description": {
-      "label": "Description"
+      "label": "Описание"
     }
   },
   "buttons": {
     "add": {
-      "label": "Add"
+      "label": "Добавить"
     }
   },
   "printDialog": {
-    "heading": "Download Your Resume",
+    "heading": "Загрузить ваше резюме",
     "quality": {
-      "label": "Quality"
+      "label": "Тип"
     },
     "printType": {
-      "label": "Type",
+      "label": "Тип",
       "types": {
-        "unconstrained": "Unconstrained",
-        "fitInA4": "Fit in A4",
-        "multiPageA4": "Multi-Page A4"
+        "unconstrained": "НЕКОНТРУКТИВНЫЙ",
+        "fitInA4": "УМЕСТИТЬ В  A4",
+        "multiPageA4": "МНОГОСТРАНИЧНЫЙ A4"
       }
     },
     "helpText": [
-      "This export method makes use of HTML canvas to convert the resume to an image and print it on a PDF, which means it will lose all selecting/parsing capabilities.",
-      "If that is important to you, please try printing the resume instead, using Cmd/Ctrl + P or the print button below. The result may vary as the output is browser dependent, but it is known to work best on the latest version of Google Chrome."
+      "ВЫБЕРИТЕ МЕТОД ЭКСПОРТА",
+      "НАПИШИТЕ ЧТО ВАЖНО ДЛЯ ВАС"
     ],
     "buttons": {
-      "cancel": "Cancel",
-      "saveAsPdf": "Save as PDF"
+      "cancel": "ОТМЕНА",
+      "saveAsPdf": "СОХРАНИТЬ В PDF"
     }
   },
   "panZoomAnimation": {
-    "helpText": "You can pan and zoom around the artboard at any time to get a closer look at your resume."
+    "helpText": "ВЫ МОЖЕТЕ УВЕЛИЧИВАТЬ  И  ЭСПОРТИРОВАТЬ ВАШЕ ПРЕКРАСНОЕ РЕЗЮМЕ"
   },
-  "markdownHelpText": "You can use <1>GitHub Flavored Markdown</1> to style this section of the text."
+  "markdownHelpText": "РЕКОМЕНДУЕТСЯ ПРИЛОЖИТЬ НЕСКОЛЬКО ЗАМЕЧАТЕЛЬНЫХ ПРОЕКТОВ НА GitHub"
 }

@@ -1,11 +1,11 @@
 {
   "name": {
-    "label": "Name"
+    "label": "Образовательное учереждение"
   },
   "major": {
-    "label": "Major"
+    "label": "Профессия"
   },
   "grade": {
-    "label": "Grade"
+    "label": "Опыт"
   }
 }

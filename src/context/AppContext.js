@@ -9,7 +9,7 @@ import { move } from '../utils';
 const initialState = {
   data: {
     profile: {
-      heading: 'Profile',
+      heading: 'Профиль',
       photo: '',
       firstName: '',
       lastName: '',
@@ -25,52 +25,52 @@ const initialState = {
     },
     objective: {
       enable: true,
-      heading: 'Objective',
+      heading: 'Приемущества',
       body: '',
     },
     work: {
       enable: true,
-      heading: 'Work Experience',
+      heading: 'Опыт работы',
       items: [],
     },
     education: {
       enable: true,
-      heading: 'Education',
+      heading: 'Образование',
       items: [],
     },
     awards: {
       enable: true,
-      heading: 'Honors & Awards',
+      heading: 'Награды и достижения',
       items: [],
     },
     certifications: {
       enable: true,
-      heading: 'Certifications',
+      heading: 'Сертификаты',
       items: [],
     },
     skills: {
       enable: true,
-      heading: 'Skills',
+      heading: 'Опыт',
       items: [],
     },
     hobbies: {
       enable: true,
-      heading: 'Hobbies',
+      heading: 'Хобби',
       items: [],
     },
     languages: {
       enable: true,
-      heading: 'Languages',
+      heading: 'Знание языков',
       items: [],
     },
     references: {
       enable: true,
-      heading: 'References',
+      heading: 'Предпочтение к рабочему месту',
       items: [],
     },
     extras: {
       enable: true,
-      heading: 'Personal Information',
+      heading: 'Описание желаемой рабочей станции ПК',
       items: [],
     },
   },
@@ -86,7 +86,7 @@ const initialState = {
     },
   },
   settings: {
-    language: 'en',
+    language: 'ru',
   },
 };
 

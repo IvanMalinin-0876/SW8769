@@ -1,8 +1,8 @@
 {
   "title": {
-    "label": "Name"
+    "label": "Название сертификата"
   },
   "subtitle": {
-    "label": "Authority"
+    "label": "Описание сертификата"
   }
 }
